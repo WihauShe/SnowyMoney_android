@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">SnowyMoney</string>
+
+    <string name="bar_search">搜索</string>
+    <string name="bar_chat">消息</string>
+
+    <string name="user_coin">米币：</string>
+    <string name="nav_charge">充值</string>
+    <string name="nav_home">首页</string>
+    <string name="nav_pub">我要发布</string>
+    <string name="nav_collection">我的收藏</string>
+    <string name="nav_logout">已发布的</string>
+
+    <string name="draw_open">打开</string>
+    <string name="draw_close">关闭</string>
+
+    <string name="nav_login_tip">登录后有新天地</string>
+    <string name="nav_register">注册</string>
+    <string name="nav_login">登录</string>
+
+    <string-array name="userSex">
+        <item>保密</item>
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string-array name="userSchool">
+        <item>无</item>
+        <item>常熟理工学院</item>
+        <item>常熟职业技术教育学院</item>
+    </string-array>
+
+    <string name="register_account">账户</string>
+    <string name="register_account_hint">请输入您的手机号</string>
+    <string name="register_password">密码</string>
+    <string name="register_password_hint">请输入您的密码</string>
+    <string name="register_name">昵称</string>
+    <string name="register_name_hint">请输入您的昵称</string>
+    <string name="register_sex">性别</string>
+    <string name="register_age">年龄</string>
+    <string name="register_age_hint">请输入您的年龄</string>
+    <string name="register_school">所在院校</string>
+    <string name="register_submit">提交</string>
+    <string name="register_cancel">取消</string>
+    <string name="register_reset">重置</string>
+
+    <string name="person_img">头像</string>
+    <string name="person_name">昵称</string>
+    <string name="person_sex">性别</string>
+    <string name="person_age">年龄</string>
+    <string name="person_school">院校</string>
+    <string name="person_credit">信誉分</string>
+    <string name="person_logout">退出登录</string>
+
+    <string name="user_sex">性别：</string>
+    <string name="user_age">年龄：</string>
+    <string name="user_school">院校：</string>
+    <string name="user_credit">信誉分：</string>
+    <string name="user_report">举报</string>
+    <string name="user_contact">咨询</string>
+
+    <string name="report_user">举报用户：</string>
+    <string name="report_reason">理由说明：</string>
+    <string name="report_evidence">上传截图：</string>
+    <string name="report_choose">选择</string>
+    <string name="report_submit">提交</string>
+
+    <string name="job_category">类别：</string>
+    <string name="job_salary">薪资：</string>
+    <string name="job_duration">工作时长：</string>
+    <string name="job_place">地点：</string>
+    <string name="job_demands">具体要求：</string>
+    <string name="job_publisher">发布者：</string>
+    <string name="job_date">发布日期：</string>
+    <string name="job_submit">发布</string>
+
+    <string name="job_collect">收藏</string>
+    <string name="job_collected">已收藏</string>
+    <string name="job_contact">咨询</string>
+
+    <string name="charge_tip">请选择或输入充值金额</string>
+    <string name="charge_total">充值金额小计</string>
+    <string name="charge_money">0.00元</string>
+
+    <string name="collection_delete">取消收藏</string>
+    <string name="issued_delete">取消发布</string>
+
+    <string name="payment">支付方式：</string>
+    <string name="ali_pay">支付宝支付</string>
+    <string name="we_chat">微信支付</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
